@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/ao8z752d.jpg" width="180" alt="Diks Baileys"/>
+  <img src="https://ar-hosting.pages.dev/f/JRDDAODQOFHVO4CUMVWVARLWJZDPNOHAFKBR4XVHY7GFQI7VDM" width="180" alt="Diks Baileys"/>
 
 </p>
 
