@@ -1,8 +1,8 @@
-# <div align='center'>Diks</div>
+# <div align='center'>Diks Baileys</div>
 
 <p align="center">
 
-  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/ao8z752d.jpg" width="180" alt="Baileys"/>
+  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/ao8z752d.jpg" width="180" alt="Diks Baileys"/>
 
 </p>
 
@@ -12,8 +12,8 @@
 [![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/pou-code/Baileys)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](package.json)
 
-A WebSockets library for interacting with WhatsApp Web, maintained under the **PouCode** brand.
-This project is a fork built on top of [Baileys](https://github.com/WhiskeySockets/Baileys) by WhiskeySockets.
+**Diks Baileys** is a WebSockets library for interacting with WhatsApp Web.
+This project is a fork built on top of the original [Baileys](https://github.com/WhiskeySockets/Baileys) by WhiskeySockets, with the project branding updated to Diks Baileys.
 
 </div>
 
