@@ -1,8 +1,8 @@
-# <div align='center'>PouCode</div>
+# <div align='center'>Diks</div>
 
 <p align="center">
 
-  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/ao8z752d.jpg" width="180" alt="Pou"/>
+  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/ao8z752d.jpg" width="180" alt="Baileys"/>
 
 </p>
 
